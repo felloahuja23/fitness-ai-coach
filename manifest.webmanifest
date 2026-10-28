@@ -7,7 +7,7 @@
   "display": "standalone",
   "background_color": "#080d0b",
   "theme_color": "#080d0b",
-  "description": "Dashboard personal para fuerza, nutrición y progreso físico",
+  "description": "Seguimiento privado de entrenamientos, nutrición y progreso",
   "icons": [
     {
       "src": "icon-192.png",
