@@ -1,0 +1,25 @@
+{
+  "name": "FITNESS AI COACH",
+  "short_name": "FITNESS COACH",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d0b",
+  "theme_color": "#080d0b",
+  "description": "Dashboard personal para fuerza, nutrición y progreso físico",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
